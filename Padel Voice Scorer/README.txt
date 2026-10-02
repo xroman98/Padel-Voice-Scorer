@@ -1,1 +1,0 @@
-Alle Dateien direkt in das Hauptverzeichnis (Root) des GitHub-Repositories hochladen. Danach Settings > Pages > Deploy from a branch > main > /(root). Die Webseite lautet https://BENUTZER.github.io/REPOSITORY/.
